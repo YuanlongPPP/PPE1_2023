@@ -8,3 +8,6 @@ solution : j'ai besoin de passer beaucoup de temps d'apprendre les connaissances
 
 ## Séance 2 : Dans le deuxième cours, nous avons commencé à apprendre comment utiliser le github : l'installation du git, la création du compte Github, la création du clé, etc. Et nous avons appris les commandes principaux de git qui servent à gérer les changements : git clone, git pull, git fetch, git add, git rm, git commit, git push, git status et git log.   
 difficulté : j'arrive pas à synchroniser le status entre le git et mon local avec des commandes.
+solution : C'est le problème de mes commandes. J'ai réessayé, ça marchait. 
+## J'ai créé un compte Github, le dépôt depuis Github, la récupération du dépôt. En plus, j'ai réalisé certains changements par rapport à mon journal de bord. Je vais synchroniser depuis et vers le dépôt. 
+
