@@ -18,5 +18,5 @@
 ## Difficulté : je n'arrive pas à ajouter un tag avec la commande "git tag -a -m "version finie séance 2" seance2 <commit> "
 ## Solution : en supprimant <commit>, je peux réaliser mon but. 
 
-
+Je vais maintenant écrire quelque chose : donc il faut ajouter une ou des lignes à la fin de ce journal de bord. ok  
 
