@@ -18,5 +18,5 @@
 ## Difficulté : je n'arrive pas à ajouter un tag avec la commande "git tag -a -m "version finie séance 2" seance2 <commit> "
 ## Solution : en supprimant <commit>, je peux réaliser mon but. 
 
-## séance 3 : Dans le troisième cours, nous avons commencé à apprendre les commandes lorsque nous avons des erreurs : git resert et git revert. On a aussi une syntaxe préalable : HEAD, <tag>,~[N],*[N], etc. 
+
 
