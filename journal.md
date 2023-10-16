@@ -23,4 +23,4 @@ Solution : en supprimant <commit>, je peux réaliser mon but.
 Je vais maintenant écrire quelque chose : donc il faut ajouter une ou des lignes à la fin de ce journal de bord. ok  
 
 # Séance 3 
-
+En récupérant l'identifiant SHA, nous pouvons utiliser la commande "git log" pour obtenir mon identifiant "
