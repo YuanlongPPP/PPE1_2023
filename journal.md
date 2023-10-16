@@ -11,4 +11,4 @@ difficulté : j'arrive pas à synchroniser le status entre le git et mon local a
 solution : C'est le problème de mes commandes. J'ai réessayé, ça marchait. 
 ## J'ai créé un compte Github, le dépôt depuis Github, la récupération du dépôt. En plus, j'ai réalisé certains changements par rapport à mon journal de bord. Je vais synchroniser depuis et vers le dépôt. 
 
-## Séance 3 : Dans le troisième cours, nous avons commencé à apprendre les commandes lorsque nous avons des erreurs : git resert et git revert. On a aussi une syntaxe préalable : HEAD, <tag>,~[N],*[N], etc. 
+
