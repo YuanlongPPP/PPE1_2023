@@ -24,3 +24,4 @@ Je vais maintenant écrire quelque chose : donc il faut ajouter une ou des ligne
 
 # Séance 3 
 En récupérant l'identifiant SHA, nous pouvons utiliser la commande "git log" pour voir les identifiants de commit. En utilisant la commande "git revert + identifiant", nous pouvons annuler le commit qu'on a fait. 
+Problème : comment syncroniser les données sur le github et sur l'ordinateur dans le cas où il y a plusieurs branches.  
