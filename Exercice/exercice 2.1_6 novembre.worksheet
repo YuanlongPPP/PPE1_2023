@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CurrentWorkingDirectory</key>
+	<string>/Users/pengyuanlong</string>
+	<key>WorksheetContents</key>
+	<string>#!/user/bin/env bash
+CHEMIN = $1
+
+if [ $# -ne 1 ]
+then 
+	echo "ce demande a besoin d'un argument qui est le chemin d'un fichier txt"
+	exit
+fi
+
+N=1
+
+while read -r line
+do 
+	codeHTTP=$(curl -sI $line | awk "NR==1{print}")
+	echo "$N	$(line) $(codeHTTP)"
+	N=$(($N+1))
+	donne&lt;"$1"
+	</string>
+</dict>
+</plist>
